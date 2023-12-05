@@ -1,7 +1,9 @@
 <?php
 /**
  * Plugin Name:       Use MailHog
+ * Plugin URI:        https://github.com/csalzano/use-mailhog
  * Description:       Configure WordPress on Valet to use MailHog
+ * Author:            Daniel Bishop, Corey Salzano
  * Version:           1.0.0
  * Tags:              laravel valet, mailhog, local, email
  *
