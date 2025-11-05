@@ -2,7 +2,7 @@
 
 WordPress plugin. Configure WordPress on Valet to use MailHog. This code began life as a gist at [gist.github.com/bishless/44ec6f6d3da0cc4a02bbc04ce5465c3b](https://gist.github.com/bishless/44ec6f6d3da0cc4a02bbc04ce5465c3b).
 
-I forked the gist but needed a nicer download file name. I install and activate this plugin each time I copy a database from production to my Laravel Valet environment.
+I forked the gist but needed a nicer download file name. I install and activate this plugin each time I copy a database from production to my local environment with [exfil](https://github.com/csalzano/exfil).
 
 ## Other SMTP Settings
 
